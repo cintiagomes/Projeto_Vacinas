@@ -9,13 +9,6 @@ body {
     flex-direction: column;
 }
 
-nav {
-    position: fixed;
-}
-
-.boxes {
-    
-}
 
 .first-box {
     margin-left: 80px;
