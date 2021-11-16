@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    position: fixed;
+}
+
+.first-img-text {
+    display: flex;
+    flex-direction: row;
+    height: 60vh;
+    margin-top: 40px;
+}
+    .img-vacina {
+        width: 30vw;
+        background-image: url(img/image-14.png);
+        background-size: cover;
+    }
+    .text-vacina {
+        width: 70vw;
+    }
+    .text-vacina h1 {
+        font-size: 4rem;
+    }
