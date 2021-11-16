@@ -1,32 +1,31 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: 0;
 }
-#home h1{
+#home h1 {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 125px;
     width: 700px;
     text-align: left;
-    color:  #434343;
+    color: #434343;
     font-weight: normal;
-    
 }
-#home p{
+#home p {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 36px;
     width: 700px;
     text-align: left;
     color: #858585;
 }
-.pag_home{
+.pag_home {
     display: flex;
     flex-direction: row-reverse;
 }
-img{
+img {
     padding-right: 100px;
 }
-#home img{
+#home img {
     display: table-cell;
     float: left;
     width: 35%;
@@ -35,17 +34,17 @@ img{
     margin-top: 40px;
     z-index: -1;
 }
-.conteudo{
+.conteudo {
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
-button{
+button {
     height: 53px;
     width: 185px;
-    border-radius: 32px;
+    border-radius: 33px;
     border: solid transparent;
-    background-color: #3E76CA;
+    background-color: #3e76ca;
     color: white;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 25px;
